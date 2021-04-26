@@ -1,0 +1,16 @@
+{
+  "name": "algolia-instantsearch-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "private": true,
+  "devDependencies": {
+    "parcel-bundler": "1.9.7"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "engines": {
+    "node": "^9.6.1"
+  }
+}
